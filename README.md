@@ -1,3 +1,7 @@
+# angular-tour-of-heroes
+
+This project was based on [TUTORIAL: TOUR OF HEROES](https://angular.io/docs/ts/latest/tutorial/)
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
